@@ -3,7 +3,7 @@
          height="55"
          width="90" /> I'm Neeharika </h1>
 <h1 align="center">A Passionate Flutter Mobile Application Developer</h3>
-
+<img align="center" alt="developer" width="400" src="https://camo.githubusercontent.com/4d11f93bca635e529eeedef9eb13e20553a9ed6dc4bda4ed8602abc915c6a02a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f31373730372f73637265656e73686f74732f323431333735342f7272722e676966 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yneeharika&label=Profile%20views&color=0e75b6&style=flat" alt="yneeharika" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yneeharika" alt="yneeharika" /></a> </p>
