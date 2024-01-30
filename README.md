@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Neeharika</h1>
-<h3 align="center">A passionate Cross Platform Mobile Developer</h3>
+![logo](https://media.licdn.com/dms/image/D5616AQE5x-jylU1vPA/profile-displaybackgroundimage-shrink_350_1400/0/1706088686173?e=1712188800&v=beta&t=oh0mwsLOQ2C6U0pD5Sf8AxPLeTk9TO_MfUWcw1sq-rg)
+<h1 align="center"> Hello.. <img src="https://c.tenor.com/p59NJj58LMsAAAAC/waving-wave.gif"
+         height="55"
+         width="90" /> I'm Neeharika </h1>
+<h1 align="center">A Passionate Flutter Mobile Application Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yneeharika&label=Profile%20views&color=0e75b6&style=flat" alt="yneeharika" /> </p>
 
